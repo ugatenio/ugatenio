@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Udi Gatenio
-- 👀 I’m interested in programing. gaming and tennis
-- 📫 You can reach me at udigot@gmail.com
+
